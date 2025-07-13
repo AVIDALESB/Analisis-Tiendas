@@ -4,23 +4,23 @@ En el marco del aprendizaje de análisis de datos con Python, contamos con un ej
 #Antecedentes
 Se trabajó con los datos de 4 tiendas y el objetivo era lograr determinar cuál de ellas tenía un mejor desempeño, teniendo en cuenta 5 tópicos esenciales.
 
-- **1. Facturación total por tienda**
+- 1. Facturación total por tienda
     
     Se estableció que la Tienda 1 tenía la mayor facturación total y el gráfico de barras reflejó fielmente dicho logro.
     
-- **2. Ventas por categoría**
+- 2. Ventas por categoría
     
     Con ayuda del gráfico de barras agrupadas es evidente que la categoría con mayor venta es la de electrónicos y que la Tienda 1 cuenta con el índice más alto.
     
-- **3. Calificación promedio**
+- 3. Calificación promedio
     
     La Tienda 3 es la que aparece con mejor calificación promedio y es el gráfico de barras el que permite la visualización más eficiente y elegante.
     
-- **4. Productos más y menos vendidos**
+- 4. Productos más y menos vendidos
     
     Con ayuda del gráfico de puntos mejorado se representa la comparación efectiva de ventas entre el producto más y menos vendido, así como la relación con cada tienda.
     
-- **5. Envío promedio por tienda**
+- 5. Envío promedio por tienda
     
     Para visualizar la tendencia en materia de costos de envío, se utiliza gráfico de barras para presentar visualmente los datos agrupados por tienda.
 
